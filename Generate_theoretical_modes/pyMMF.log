@@ -1,0 +1,803 @@
+2025-05-09 15:24:38,868 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2025-05-09 15:37:27,989 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2025-05-09 15:37:46,840 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2025-05-09 15:39:37,070 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2025-05-09 15:39:37,071 - pyMMF.solv [INFO   ]  Searching for modes with beta_min=5.8097702917872995, beta_max=5.877818513168
+2025-05-09 15:39:37,084 - pyMMF.solv [INFO   ]  Found 6 radial mode(s) for m=0
+2025-05-09 15:39:37,085 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:37,087 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,088 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,089 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,090 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,091 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,091 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,093 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,093 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,094 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,096 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,097 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,098 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,099 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,099 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,100 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,102 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,102 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,103 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:37,105 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,106 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,106 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:37,107 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,107 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,108 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:37,109 - pyMMF.solv [ERROR  ]  Field limit -0.17531339097416043 at the founded beta=0.06197713390534296 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,110 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,110 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.02a
+2025-05-09 15:39:37,112 - pyMMF.solv [ERROR  ]  Field limit -0.01762392695877417 at the founded beta=0.061977133905342895 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,113 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,113 - pyMMF.solv [WARNING]  Retrying by changing r_max to 1.92a
+2025-05-09 15:39:37,115 - pyMMF.solv [ERROR  ]  Field limit -0.00209043429721604 at the founded beta=0.06197713390534303 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,116 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,117 - pyMMF.solv [WARNING]  Retrying by changing r_max to 1.82a
+2025-05-09 15:39:37,120 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:37,121 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,122 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,122 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,124 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,124 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,125 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,126 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,126 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,127 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,128 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,128 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,129 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,130 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,131 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,132 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,133 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,133 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,134 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:37,135 - pyMMF.solv [ERROR  ]  Field limit -0.09673199966560865 at the founded beta=0.049818194375973464 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,135 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,136 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:37,137 - pyMMF.solv [ERROR  ]  Field limit -0.010654480608594087 at the founded beta=0.049818194375973505 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,138 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,138 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:37,139 - pyMMF.solv [ERROR  ]  Field limit -0.0013611640518753079 at the founded beta=0.04981819437597355 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,139 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,140 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.02a
+2025-05-09 15:39:37,141 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:37,143 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037638188548994395 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,143 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,144 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,145 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037638188548994395 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,145 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,146 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,147 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037638188548994395 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,147 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,148 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,149 - pyMMF.solv [ERROR  ]  Field limit 0.8416967375591194 at the founded beta=0.03763818854899464 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,150 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,150 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,151 - pyMMF.solv [ERROR  ]  Field limit 0.09583415699967304 at the founded beta=0.037638188548994644 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,151 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,152 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,153 - pyMMF.solv [ERROR  ]  Field limit 0.01092588980269467 at the founded beta=0.0376381885489946 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,154 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,154 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:37,155 - pyMMF.solv [ERROR  ]  Field limit 0.0014172510319593744 at the founded beta=0.03763818854899466 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,156 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,156 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:37,158 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 4
+2025-05-09 15:39:37,159 - pyMMF.solv [ERROR  ]  Field limit -0.039166158972037 at the founded beta=0.02543890709597192 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,159 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,160 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,161 - pyMMF.solv [ERROR  ]  Field limit -0.004318702737811844 at the founded beta=0.025438907095971828 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,162 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,163 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,166 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 5
+2025-05-09 15:39:37,167 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 6
+2025-05-09 15:39:37,178 - pyMMF.solv [INFO   ]  Found 5 radial mode(s) for m=1
+2025-05-09 15:39:37,179 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:37,180 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,181 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,181 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,182 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,182 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,183 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,184 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,184 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,184 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,185 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,186 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,186 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,187 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,187 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,187 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,188 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,189 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,189 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:37,190 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,191 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,191 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:37,192 - pyMMF.solv [ERROR  ]  Field limit -0.2522126574669704 at the founded beta=0.055895897073232795 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,193 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,193 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:37,194 - pyMMF.solv [ERROR  ]  Field limit -0.028454690685956914 at the founded beta=0.0558958970732329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,195 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,195 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.02a
+2025-05-09 15:39:37,196 - pyMMF.solv [ERROR  ]  Field limit -0.0032143868796546387 at the founded beta=0.055895897073232795 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,197 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,197 - pyMMF.solv [WARNING]  Retrying by changing r_max to 1.92a
+2025-05-09 15:39:37,200 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:37,201 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.043721491813494315 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,201 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,202 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,203 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.043721491813494315 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,203 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,204 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,205 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.043721491813494315 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,205 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,205 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,206 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.043721491813494315 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,206 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,207 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,208 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.043721491813494315 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,208 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,208 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,209 - pyMMF.solv [ERROR  ]  Field limit 0.4044115646892545 at the founded beta=0.04372149181349407 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,209 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,210 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:37,211 - pyMMF.solv [ERROR  ]  Field limit 0.04461875327915031 at the founded beta=0.043721491813494176 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,211 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,212 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:37,213 - pyMMF.solv [ERROR  ]  Field limit 0.0056569311660286834 at the founded beta=0.04372149181349418 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,214 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,214 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:37,217 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:37,218 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03152619145570183 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,219 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,219 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,220 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03152619145570183 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,221 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,221 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,222 - pyMMF.solv [ERROR  ]  Field limit 0.37177110798521273 at the founded beta=0.031526191455701943 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,222 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,223 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,223 - pyMMF.solv [ERROR  ]  Field limit 0.04030338905219353 at the founded beta=0.03152619145570193 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,224 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,224 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,225 - pyMMF.solv [ERROR  ]  Field limit 0.005527119893630452 at the founded beta=0.03152619145570205 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,226 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,226 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,229 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 4
+2025-05-09 15:39:37,230 - pyMMF.solv [ERROR  ]  Field limit -0.005235656354715921 at the founded beta=0.01931921293918619 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,231 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,232 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,234 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 5
+2025-05-09 15:39:37,246 - pyMMF.solv [INFO   ]  Found 5 radial mode(s) for m=2
+2025-05-09 15:39:37,247 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:37,248 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,249 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,249 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,250 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,251 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,251 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,252 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,252 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,253 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,253 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,254 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,254 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,255 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,256 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,256 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,257 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,257 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,258 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:37,259 - pyMMF.solv [ERROR  ]  Field limit 0.7033071012328584 at the founded beta=0.049814063701949206 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,259 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,259 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:37,261 - pyMMF.solv [ERROR  ]  Field limit 0.07728701811395383 at the founded beta=0.04981406370194923 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,262 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,263 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:37,264 - pyMMF.solv [ERROR  ]  Field limit 0.009850217279514474 at the founded beta=0.04981406370194914 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,264 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,265 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.02a
+2025-05-09 15:39:37,266 - pyMMF.solv [ERROR  ]  Field limit 0.001256759346348372 at the founded beta=0.049814063701949296 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,266 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,266 - pyMMF.solv [WARNING]  Retrying by changing r_max to 1.92a
+2025-05-09 15:39:37,268 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:37,270 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03762987873815292 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,271 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,271 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,272 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03762987873815292 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,273 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,273 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,274 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03762987873815292 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,274 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,275 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,276 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03762987873815292 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,276 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,276 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,277 - pyMMF.solv [ERROR  ]  Field limit 0.16906781678601437 at the founded beta=0.03762987873815262 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,277 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,278 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,279 - pyMMF.solv [ERROR  ]  Field limit 0.01923081144437682 at the founded beta=0.037629878738152774 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,280 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,281 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:37,282 - pyMMF.solv [ERROR  ]  Field limit 0.0024884609446757487 at the founded beta=0.037629878738152656 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,283 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,283 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:37,285 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:37,286 - pyMMF.solv [ERROR  ]  Field limit -0.5925681836979666 at the founded beta=0.02542603997802318 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,287 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,287 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,288 - pyMMF.solv [ERROR  ]  Field limit -0.06521130529712205 at the founded beta=0.025426039978023052 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,289 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,289 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,290 - pyMMF.solv [ERROR  ]  Field limit -0.008863966769920325 at the founded beta=0.025426039978023136 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,290 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,291 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,291 - pyMMF.solv [ERROR  ]  Field limit -0.0012061302673263253 at the founded beta=0.025426039978023198 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,292 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,292 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,295 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 4
+2025-05-09 15:39:37,297 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 5
+2025-05-09 15:39:37,308 - pyMMF.solv [INFO   ]  Found 4 radial mode(s) for m=3
+2025-05-09 15:39:37,309 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:37,310 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.043723049647196865 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,311 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,311 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,313 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.043723049647196865 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,314 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,314 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,315 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.043723049647196865 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,316 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,316 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,317 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.043723049647196865 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,318 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,318 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,319 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.043723049647196865 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,320 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,320 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,321 - pyMMF.solv [ERROR  ]  Field limit 0.5542773983763245 at the founded beta=0.043723049647196935 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,321 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,322 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:37,323 - pyMMF.solv [ERROR  ]  Field limit 0.060850720822717634 at the founded beta=0.043723049647196935 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,323 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,323 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:37,324 - pyMMF.solv [ERROR  ]  Field limit 0.007675177062580328 at the founded beta=0.04372304964719689 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,324 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,325 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:37,326 - pyMMF.solv [ERROR  ]  Field limit 0.0011121181640461127 at the founded beta=0.04372304964719694 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,326 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,326 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.02a
+2025-05-09 15:39:37,329 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:37,331 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.031526312450510144 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,331 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,332 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,333 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.031526312450510144 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,334 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,334 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,335 - pyMMF.solv [ERROR  ]  Field limit 0.8524863735391544 at the founded beta=0.031526312450510255 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,335 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,335 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,336 - pyMMF.solv [ERROR  ]  Field limit 0.09195021806900656 at the founded beta=0.031526312450510234 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,337 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,337 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,338 - pyMMF.solv [ERROR  ]  Field limit 0.012546605764664896 at the founded beta=0.03152631245051011 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,338 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,338 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,339 - pyMMF.solv [ERROR  ]  Field limit 0.0017131884253535235 at the founded beta=0.03152631245051029 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,340 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,340 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:37,342 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:37,343 - pyMMF.solv [ERROR  ]  Field limit -0.004786130373282197 at the founded beta=0.019315186418550418 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,344 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,344 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,347 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 4
+2025-05-09 15:39:37,358 - pyMMF.solv [INFO   ]  Found 4 radial mode(s) for m=4
+2025-05-09 15:39:37,358 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:37,360 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037625699902022164 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,360 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,360 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,362 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037625699902022164 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,362 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,363 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,364 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037625699902022164 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,364 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,365 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,366 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037625699902022164 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,366 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,366 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,367 - pyMMF.solv [ERROR  ]  Field limit 0.4522857530887351 at the founded beta=0.03762569990202248 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,368 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,368 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,368 - pyMMF.solv [ERROR  ]  Field limit 0.05106158707504607 at the founded beta=0.03762569990202244 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,370 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,370 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:37,371 - pyMMF.solv [ERROR  ]  Field limit 0.0065556887146669155 at the founded beta=0.03762569990202252 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,371 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,372 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:37,374 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:37,375 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.025416899347808067 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,376 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,376 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,377 - pyMMF.solv [ERROR  ]  Field limit -0.14647261007439774 at the founded beta=0.02541689934780819 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,378 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,378 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,379 - pyMMF.solv [ERROR  ]  Field limit -0.019765360740057497 at the founded beta=0.025416899347808244 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,380 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,381 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,382 - pyMMF.solv [ERROR  ]  Field limit -0.002667784906515648 at the founded beta=0.025416899347808303 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,383 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,383 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,385 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:37,387 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 4
+2025-05-09 15:39:37,399 - pyMMF.solv [INFO   ]  Found 3 radial mode(s) for m=5
+2025-05-09 15:39:37,400 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:37,401 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.03152201916690692 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,402 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,403 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,404 - pyMMF.solv [ERROR  ]  Field limit -0.21310005998027767 at the founded beta=0.03152201916690679 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,405 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,405 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,406 - pyMMF.solv [ERROR  ]  Field limit -0.022762888304823384 at the founded beta=0.03152201916690679 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,406 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,407 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,408 - pyMMF.solv [ERROR  ]  Field limit -0.0024309547920053636 at the founded beta=0.03152201916690681 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,408 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,408 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,411 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:37,412 - pyMMF.solv [ERROR  ]  Field limit -0.013651633416347418 at the founded beta=0.019302982752512972 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,413 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,413 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,415 - pyMMF.solv [ERROR  ]  Field limit -0.0019713849201228512 at the founded beta=0.019302982752512916 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,415 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,416 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,418 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:37,430 - pyMMF.solv [INFO   ]  Found 3 radial mode(s) for m=6
+2025-05-09 15:39:37,430 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:37,431 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.025412085148664214 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,432 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,433 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,434 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.025412085148664214 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,434 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,435 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,436 - pyMMF.solv [ERROR  ]  Field limit -0.14312320084554578 at the founded beta=0.025412085148664092 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,436 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,436 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,437 - pyMMF.solv [ERROR  ]  Field limit -0.01905218352153278 at the founded beta=0.025412085148663995 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,438 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,438 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:37,439 - pyMMF.solv [ERROR  ]  Field limit -0.0031321451240437282 at the founded beta=0.0254120851486641 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,439 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,440 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:37,442 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:37,444 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:37,455 - pyMMF.solv [INFO   ]  Found 2 radial mode(s) for m=7
+2025-05-09 15:39:37,456 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:37,457 - pyMMF.solv [ERROR  ]  Field limit 0.05517879929413464 at the founded beta=0.0192961842063913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,457 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,458 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,458 - pyMMF.solv [ERROR  ]  Field limit 0.007833963773434066 at the founded beta=0.01929618420639138 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,459 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,459 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:37,460 - pyMMF.solv [ERROR  ]  Field limit 0.0013364945231864012 at the founded beta=0.019296184206391353 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,461 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,461 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:37,464 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:37,475 - pyMMF.solv [INFO   ]  Found 2 radial mode(s) for m=8
+2025-05-09 15:39:37,476 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:37,477 - pyMMF.solv [ERROR  ]  Field limit 0.0033706648598092045 at the founded beta=0.013175160595537206 is greater than field_limit_tol=0.001
+2025-05-09 15:39:37,477 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:37,478 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:37,480 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:37,492 - pyMMF.solv [INFO   ]  Found 1 radial mode(s) for m=9
+2025-05-09 15:39:37,492 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:37,503 - pyMMF.solv [INFO   ]  Found 1 radial mode(s) for m=10
+2025-05-09 15:39:37,504 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:37,516 - pyMMF.solv [INFO   ]  Found 0 radial mode(s) for m=11
+2025-05-09 15:39:37,517 - pyMMF.solv [INFO   ]  Solver found 66 modes is 0.45 seconds.
+2025-05-09 15:39:37,517 - pyMMF.core [DEBUG  ]  Mode data stored in memory.
+2025-05-09 15:39:54,013 - pyMMF.core [DEBUG  ]  Debug mode ON.
+2025-05-09 15:39:54,014 - pyMMF.solv [INFO   ]  Searching for modes with beta_min=5.8097702917872995, beta_max=5.877818513168
+2025-05-09 15:39:54,023 - pyMMF.solv [INFO   ]  Found 6 radial mode(s) for m=0
+2025-05-09 15:39:54,024 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:54,024 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,025 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,025 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,027 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,028 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,029 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,030 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,031 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,032 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,033 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,033 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,034 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,035 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,036 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,036 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,037 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,038 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,039 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:54,040 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,041 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,041 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:54,042 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.06197713390534289 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,044 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,045 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:54,046 - pyMMF.solv [ERROR  ]  Field limit -0.17531339097416043 at the founded beta=0.06197713390534296 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,047 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,047 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.02a
+2025-05-09 15:39:54,049 - pyMMF.solv [ERROR  ]  Field limit -0.01762392695877417 at the founded beta=0.061977133905342895 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,049 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,050 - pyMMF.solv [WARNING]  Retrying by changing r_max to 1.92a
+2025-05-09 15:39:54,051 - pyMMF.solv [ERROR  ]  Field limit -0.00209043429721604 at the founded beta=0.06197713390534303 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,052 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,052 - pyMMF.solv [WARNING]  Retrying by changing r_max to 1.82a
+2025-05-09 15:39:54,056 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:54,056 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,056 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,057 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,058 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,058 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,059 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,061 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,062 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,062 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,064 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,064 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,065 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,065 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,065 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,065 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,067 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981819437597329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,067 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,068 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:54,068 - pyMMF.solv [ERROR  ]  Field limit -0.09673199966560865 at the founded beta=0.049818194375973464 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,068 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,070 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:54,071 - pyMMF.solv [ERROR  ]  Field limit -0.010654480608594087 at the founded beta=0.049818194375973505 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,072 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,072 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:54,073 - pyMMF.solv [ERROR  ]  Field limit -0.0013611640518753079 at the founded beta=0.04981819437597355 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,073 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,073 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.02a
+2025-05-09 15:39:54,077 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:54,078 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037638188548994395 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,079 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,080 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,081 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037638188548994395 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,082 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,082 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,083 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037638188548994395 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,084 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,085 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,086 - pyMMF.solv [ERROR  ]  Field limit 0.8416967375591194 at the founded beta=0.03763818854899464 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,086 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,086 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,087 - pyMMF.solv [ERROR  ]  Field limit 0.09583415699967304 at the founded beta=0.037638188548994644 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,088 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,088 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,089 - pyMMF.solv [ERROR  ]  Field limit 0.01092588980269467 at the founded beta=0.0376381885489946 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,089 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,090 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:54,091 - pyMMF.solv [ERROR  ]  Field limit 0.0014172510319593744 at the founded beta=0.03763818854899466 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,091 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,091 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:54,096 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 4
+2025-05-09 15:39:54,097 - pyMMF.solv [ERROR  ]  Field limit -0.039166158972037 at the founded beta=0.02543890709597192 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,098 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,099 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,099 - pyMMF.solv [ERROR  ]  Field limit -0.004318702737811844 at the founded beta=0.025438907095971828 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,100 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,100 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,104 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 5
+2025-05-09 15:39:54,108 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 6
+2025-05-09 15:39:54,120 - pyMMF.solv [INFO   ]  Found 5 radial mode(s) for m=1
+2025-05-09 15:39:54,121 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:54,122 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,122 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,123 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,124 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,124 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,125 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,126 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,126 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,127 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,128 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,129 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,129 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,130 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,131 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,131 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,133 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,133 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,134 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:54,135 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.055895897073232725 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,135 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,135 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:54,136 - pyMMF.solv [ERROR  ]  Field limit -0.2522126574669704 at the founded beta=0.055895897073232795 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,137 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,137 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:54,138 - pyMMF.solv [ERROR  ]  Field limit -0.028454690685956914 at the founded beta=0.0558958970732329 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,138 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,139 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.02a
+2025-05-09 15:39:54,139 - pyMMF.solv [ERROR  ]  Field limit -0.0032143868796546387 at the founded beta=0.055895897073232795 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,140 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,140 - pyMMF.solv [WARNING]  Retrying by changing r_max to 1.92a
+2025-05-09 15:39:54,151 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:54,152 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.043721491813494315 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,153 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,153 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,154 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.043721491813494315 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,154 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,155 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,156 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.043721491813494315 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,156 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,157 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,158 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.043721491813494315 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,158 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,158 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,159 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.043721491813494315 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,160 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,160 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,161 - pyMMF.solv [ERROR  ]  Field limit 0.4044115646892545 at the founded beta=0.04372149181349407 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,161 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,161 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:54,163 - pyMMF.solv [ERROR  ]  Field limit 0.04461875327915031 at the founded beta=0.043721491813494176 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,163 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,164 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:54,165 - pyMMF.solv [ERROR  ]  Field limit 0.0056569311660286834 at the founded beta=0.04372149181349418 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,165 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,166 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:54,175 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:54,176 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03152619145570183 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,178 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,178 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,179 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03152619145570183 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,180 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,181 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,182 - pyMMF.solv [ERROR  ]  Field limit 0.37177110798521273 at the founded beta=0.031526191455701943 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,183 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,183 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,184 - pyMMF.solv [ERROR  ]  Field limit 0.04030338905219353 at the founded beta=0.03152619145570193 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,185 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,185 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,186 - pyMMF.solv [ERROR  ]  Field limit 0.005527119893630452 at the founded beta=0.03152619145570205 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,186 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,186 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,196 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 4
+2025-05-09 15:39:54,197 - pyMMF.solv [ERROR  ]  Field limit -0.005235656354715921 at the founded beta=0.01931921293918619 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,198 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,198 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,208 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 5
+2025-05-09 15:39:54,226 - pyMMF.solv [INFO   ]  Found 5 radial mode(s) for m=2
+2025-05-09 15:39:54,227 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:54,229 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,230 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,230 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,231 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,232 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,232 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,233 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,234 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,234 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,235 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,235 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,236 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,236 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,237 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,237 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,238 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.04981406370194913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,239 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,240 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:54,241 - pyMMF.solv [ERROR  ]  Field limit 0.7033071012328584 at the founded beta=0.049814063701949206 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,242 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,242 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:54,243 - pyMMF.solv [ERROR  ]  Field limit 0.07728701811395383 at the founded beta=0.04981406370194923 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,243 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,243 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:54,244 - pyMMF.solv [ERROR  ]  Field limit 0.009850217279514474 at the founded beta=0.04981406370194914 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,245 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,245 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.02a
+2025-05-09 15:39:54,246 - pyMMF.solv [ERROR  ]  Field limit 0.001256759346348372 at the founded beta=0.049814063701949296 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,248 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,249 - pyMMF.solv [WARNING]  Retrying by changing r_max to 1.92a
+2025-05-09 15:39:54,262 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:54,264 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03762987873815292 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,265 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,266 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,268 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03762987873815292 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,270 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,270 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,272 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03762987873815292 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,273 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,273 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,275 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.03762987873815292 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,276 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,276 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,277 - pyMMF.solv [ERROR  ]  Field limit 0.16906781678601437 at the founded beta=0.03762987873815262 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,278 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,278 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,280 - pyMMF.solv [ERROR  ]  Field limit 0.01923081144437682 at the founded beta=0.037629878738152774 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,280 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,281 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:54,282 - pyMMF.solv [ERROR  ]  Field limit 0.0024884609446757487 at the founded beta=0.037629878738152656 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,283 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,283 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:54,296 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:54,298 - pyMMF.solv [ERROR  ]  Field limit -0.5925681836979666 at the founded beta=0.02542603997802318 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,298 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,299 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,300 - pyMMF.solv [ERROR  ]  Field limit -0.06521130529712205 at the founded beta=0.025426039978023052 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,301 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,302 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,304 - pyMMF.solv [ERROR  ]  Field limit -0.008863966769920325 at the founded beta=0.025426039978023136 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,304 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,305 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,306 - pyMMF.solv [ERROR  ]  Field limit -0.0012061302673263253 at the founded beta=0.025426039978023198 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,306 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,306 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,317 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 4
+2025-05-09 15:39:54,327 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 5
+2025-05-09 15:39:54,347 - pyMMF.solv [INFO   ]  Found 4 radial mode(s) for m=3
+2025-05-09 15:39:54,348 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:54,349 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.043723049647196865 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,350 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,350 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,351 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.043723049647196865 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,352 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,353 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,354 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.043723049647196865 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,354 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,354 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,355 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.043723049647196865 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,356 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,356 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,357 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.043723049647196865 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,357 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,357 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,358 - pyMMF.solv [ERROR  ]  Field limit 0.5542773983763245 at the founded beta=0.043723049647196935 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,359 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,359 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:54,360 - pyMMF.solv [ERROR  ]  Field limit 0.060850720822717634 at the founded beta=0.043723049647196935 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,360 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,361 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:54,362 - pyMMF.solv [ERROR  ]  Field limit 0.007675177062580328 at the founded beta=0.04372304964719689 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,362 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,363 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.12a
+2025-05-09 15:39:54,364 - pyMMF.solv [ERROR  ]  Field limit 0.0011121181640461127 at the founded beta=0.04372304964719694 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,365 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,366 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.02a
+2025-05-09 15:39:54,375 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:54,377 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.031526312450510144 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,378 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,379 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,380 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.031526312450510144 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,382 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,383 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,384 - pyMMF.solv [ERROR  ]  Field limit 0.8524863735391544 at the founded beta=0.031526312450510255 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,384 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,385 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,386 - pyMMF.solv [ERROR  ]  Field limit 0.09195021806900656 at the founded beta=0.031526312450510234 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,386 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,386 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,387 - pyMMF.solv [ERROR  ]  Field limit 0.012546605764664896 at the founded beta=0.03152631245051011 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,388 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,388 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,389 - pyMMF.solv [ERROR  ]  Field limit 0.0017131884253535235 at the founded beta=0.03152631245051029 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,389 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,390 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:54,400 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:54,401 - pyMMF.solv [ERROR  ]  Field limit -0.004786130373282197 at the founded beta=0.019315186418550418 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,402 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,402 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,412 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 4
+2025-05-09 15:39:54,432 - pyMMF.solv [INFO   ]  Found 4 radial mode(s) for m=4
+2025-05-09 15:39:54,433 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:54,434 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037625699902022164 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,434 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,435 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,435 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037625699902022164 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,436 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,436 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,437 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037625699902022164 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,437 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,438 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,439 - pyMMF.solv [ERROR  ]  Field limit -1.0 at the founded beta=0.037625699902022164 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,439 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,440 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,441 - pyMMF.solv [ERROR  ]  Field limit 0.4522857530887351 at the founded beta=0.03762569990202248 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,441 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,441 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,442 - pyMMF.solv [ERROR  ]  Field limit 0.05106158707504607 at the founded beta=0.03762569990202244 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,443 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,443 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.35a
+2025-05-09 15:39:54,444 - pyMMF.solv [ERROR  ]  Field limit 0.0065556887146669155 at the founded beta=0.03762569990202252 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,444 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,445 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.23a
+2025-05-09 15:39:54,455 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:54,457 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.025416899347808067 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,458 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,458 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,459 - pyMMF.solv [ERROR  ]  Field limit -0.14647261007439774 at the founded beta=0.02541689934780819 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,460 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,460 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,462 - pyMMF.solv [ERROR  ]  Field limit -0.019765360740057497 at the founded beta=0.025416899347808244 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,463 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,463 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,464 - pyMMF.solv [ERROR  ]  Field limit -0.002667784906515648 at the founded beta=0.025416899347808303 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,465 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,465 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,474 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:54,485 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 4
+2025-05-09 15:39:54,504 - pyMMF.solv [INFO   ]  Found 3 radial mode(s) for m=5
+2025-05-09 15:39:54,505 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:54,506 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.03152201916690692 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,506 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,507 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,508 - pyMMF.solv [ERROR  ]  Field limit -0.21310005998027767 at the founded beta=0.03152201916690679 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,508 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,509 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,510 - pyMMF.solv [ERROR  ]  Field limit -0.022762888304823384 at the founded beta=0.03152201916690679 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,510 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,510 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,511 - pyMMF.solv [ERROR  ]  Field limit -0.0024309547920053636 at the founded beta=0.03152201916690681 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,512 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,512 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,523 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:54,524 - pyMMF.solv [ERROR  ]  Field limit -0.013651633416347418 at the founded beta=0.019302982752512972 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,525 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,525 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,526 - pyMMF.solv [ERROR  ]  Field limit -0.0019713849201228512 at the founded beta=0.019302982752512916 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,526 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,527 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,537 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:54,557 - pyMMF.solv [INFO   ]  Found 3 radial mode(s) for m=6
+2025-05-09 15:39:54,558 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:54,559 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.025412085148664214 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,559 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,560 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,561 - pyMMF.solv [ERROR  ]  Field limit 1.0 at the founded beta=0.025412085148664214 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,561 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,562 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,563 - pyMMF.solv [ERROR  ]  Field limit -0.14312320084554578 at the founded beta=0.025412085148664092 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,564 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,565 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,565 - pyMMF.solv [ERROR  ]  Field limit -0.01905218352153278 at the founded beta=0.025412085148663995 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,566 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,566 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.61a
+2025-05-09 15:39:54,567 - pyMMF.solv [ERROR  ]  Field limit -0.0031321451240437282 at the founded beta=0.0254120851486641 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,567 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,568 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.48a
+2025-05-09 15:39:54,577 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:54,588 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 3
+2025-05-09 15:39:54,607 - pyMMF.solv [INFO   ]  Found 2 radial mode(s) for m=7
+2025-05-09 15:39:54,607 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:54,608 - pyMMF.solv [ERROR  ]  Field limit 0.05517879929413464 at the founded beta=0.0192961842063913 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,609 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,609 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,610 - pyMMF.solv [ERROR  ]  Field limit 0.007833963773434066 at the founded beta=0.01929618420639138 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,612 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,613 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.89a
+2025-05-09 15:39:54,614 - pyMMF.solv [ERROR  ]  Field limit 0.0013364945231864012 at the founded beta=0.019296184206391353 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,615 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,616 - pyMMF.solv [WARNING]  Retrying by changing r_max to 2.74a
+2025-05-09 15:39:54,626 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:54,646 - pyMMF.solv [INFO   ]  Found 2 radial mode(s) for m=8
+2025-05-09 15:39:54,647 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:54,648 - pyMMF.solv [ERROR  ]  Field limit 0.0033706648598092045 at the founded beta=0.013175160595537206 is greater than field_limit_tol=0.001
+2025-05-09 15:39:54,649 - pyMMF.solv [WARNING]  Boundary condition could not be met.
+2025-05-09 15:39:54,649 - pyMMF.solv [WARNING]  Retrying by changing r_max to 3.04a
+2025-05-09 15:39:54,659 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 2
+2025-05-09 15:39:54,677 - pyMMF.solv [INFO   ]  Found 1 radial mode(s) for m=9
+2025-05-09 15:39:54,678 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:54,698 - pyMMF.solv [INFO   ]  Found 1 radial mode(s) for m=10
+2025-05-09 15:39:54,698 - pyMMF.solv [INFO   ]  Searching propagation constant for |l| = 1
+2025-05-09 15:39:54,718 - pyMMF.solv [INFO   ]  Found 0 radial mode(s) for m=11
+2025-05-09 15:39:54,719 - pyMMF.solv [INFO   ]  Solver found 66 modes is 0.70 seconds.
+2025-05-09 15:39:54,719 - pyMMF.core [DEBUG  ]  Mode data stored in memory.

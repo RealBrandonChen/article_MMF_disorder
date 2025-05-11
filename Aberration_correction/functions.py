@@ -11,7 +11,6 @@ def getZernikeCoefs(states):
     return coefs_list
 
 
-
 def showZernikeCoefs(
     zernike_coefs_list, 
     labels = None, 
